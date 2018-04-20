@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">InventoryProject</string>
+    <string name="bad_uri">Bad Uri</string>
+    <string name="sale">SALE</string>
+    <string name="no_data">We can populate database using exeqsql() method. It takes in string(raw sql Query).\n Though we use content provider for this purpose as they are much stable and easy to validate.\n It also provide security to our database.\nIt is versatile</string>
+    <string name="delete_all_data">Delete All</string>
+    <string name="done">Done</string>
+    <string name="delete">Delete</string>
+    <string name="order">Order</string>
+    <string name="product_name">Product Name</string>
+    <string name="price">Price</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_dialog_msg">Delete this pet?</string>
+    <string name="supplier_name">Supplier\'s Name</string>
+    <string name="supplier_s_email_id">Supplier\'s email id</string>
+    <string name="supplier_number">Supplier\'s Phone Number</string>
+    <string name="edit">Edit</string>
+    <string name="title_activity_edit_product">Edit Product</string>
+    <string name="title_product_detail_activity">Product Details</string>
+    <string name="title_add_product_activity">Add Product</string>
+    <string name="err_external_storage_permissions">Need permissions to get a product photo</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="editor_delete_product_failed">Product Deletion Failed</string>
+    <string name="editor_delete_product_successful">Product Deletion Successful</string>
+    <string name="editor_insert_product_failed">Product Insertion Failed</string>
+    <string name="editor_insert_product_successful">Product Insertion Successful</string>
+    <string name="editor_update_product_failed">Product Updation Failed</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="editor_update_product_successful">Product Updation Successful</string>
+    <string name="photo_update">Click Below to add photo</string>
+    <string name="action_order">Order</string>
+
+</resources>
